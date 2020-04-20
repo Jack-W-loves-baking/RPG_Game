@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Oct 18 01:33:09 NZDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-d9b5-1f9b-00000d59f950 
+on database directory /Users/Jack/Documents/AUT/Programming 3 COMP 603/AssignmentTwo/EnermyDB with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Loaded from file:/Users/Jack/Documents/AUT/Programming%203%20COMP%20603/AssignmentTwo/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=/Users/Jack/Documents/AUT/Programming 3 COMP 603/AssignmentTwo
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
